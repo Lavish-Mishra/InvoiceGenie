@@ -1,0 +1,13 @@
+## Outer Endpoints
+/admin           -   Admin Panel
+/api/users       -   Users related
+/api/invoices    -   Invoices related
+
+## Users Endpoints
+/api/users/register/        -    Register User
+/api/users/login/           -    Login User
+/api/users/token/refresh/   -    Get new access Token based on refresh token
+/api/users/profile/         -    Profile page
+
+## Invoices Endpoints
+They are based on router so decided by router.
